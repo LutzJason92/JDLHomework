@@ -1,7 +1,7 @@
 # JDLHomework
 Homework assignment 10/29
 
-https://github.com/LutzJason92/JDLHomework
+
 https://lutzjason92.github.io/JDLHomework/
 ![ScreenShot](/JDLHomework/assets/images/appScreenshot.png)
 
