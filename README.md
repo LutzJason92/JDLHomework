@@ -1,6 +1,10 @@
 # JDLHomework
 Homework assignment 10/29
 
+https://github.com/LutzJason92/JDLHomework
+https://lutzjason92.github.io/JDLHomework/
+![ScreenShot](/JDLHomework/assets/images/appScreenshot.png)
+
 For this project I have Refactored the code making it more accessible and streamlined for other developers by using symantic wording of elements and organized the CSS page for greater efficiency. 
 
 This is my first homework assignment. In lue of working git push commands, I've notated my edits here for the time being. 
@@ -16,3 +20,4 @@ CSS: Changed "content" class to "servicescontent" and updated HTML link
 CSS: Changed "header" class to "NavBar" and updated HTML link
 CSS: Grouped similar elements and organzied code chronologically as it appears in HTML
 
+ 
