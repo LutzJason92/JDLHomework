@@ -1,6 +1,8 @@
 # JDLHomework
 Homework assignment 10/29
 
+For this project I have Refactored the code making it more accessible and streamlined for other developers by using symantic wording of elements and organized the CSS page for greater efficiency. 
+
 This is my first homework assignment. In lue of working git push commands, I've notated my edits here for the time being. 
 
 10.28 7:41pm
